@@ -5,3 +5,6 @@ import matplotlib.pyplot as plt
 
 df = pd.DataFrame({"A": [1, 2, 3], "B": [1, 2, 3]})
 print(df)
+
+f2 = pd.DataFrame({"C": [1, 2, 3], "D": [1, 2, 3]})
+print(f2)
